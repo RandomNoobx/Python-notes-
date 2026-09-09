@@ -157,6 +157,9 @@ us_floor = int(floor) + 1
 
 print('US floor', us_floor)
 
+Europe floor? 0
+
+US floor 1
 ## Comments in Python :
 
 Anything after a ' # ' is ignored in python. { Like // in c }
