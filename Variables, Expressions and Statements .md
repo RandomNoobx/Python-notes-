@@ -152,7 +152,9 @@ If we want to read a number from the user, we must convert it from a string to a
 Ex :
 
 floor = input('Europe floor?')
+
 us_floor = int(floor) + 1
+
 print('US floor', us_floor)
 
 ## Comments in Python :
