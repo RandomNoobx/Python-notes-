@@ -145,6 +145,16 @@ print('Welcome', name)
 Who are you? Chuck
 Welcome Chuck
 
+## Reading User Input :
+
+If we want to read a number from the user, we must convert it from a string to a number using a type conversion function.
+
+Ex :
+
+floor = input('Europe floor?')
+us_floor = int(floor) + 1
+print('US floor', us_floor)
+
 ## Comments in Python :
 
 Anything after a ' # ' is ignored in python. { Like // in c }
